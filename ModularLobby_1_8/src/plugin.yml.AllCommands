@@ -1,0 +1,31 @@
+main: com.TrickShotDev.ModularLobby.Lobby
+name: ModularLobby
+version: 1.0.1
+author: TrickShotDev
+description: Lobby Plugin
+commands:
+  lobbyreload:
+  setspawn:
+  spawn:
+  edit:
+    aliases: [build]
+  fly:
+  toggledamage:
+  togglehunger:
+  toggleexplosions:
+  chatclear:
+    aliases: [cc]
+  gamemode:
+    aliases: [gm]
+  lobbyhelp:
+  set:
+  vanish:
+    aliases: [v]
+  teleport:
+    aliases: [tp]
+  teleportall:
+    aliases: [tpall]
+  teleporthere:
+    aliases: [tphere]
+  lobby:
+    aliases: [hub, l]

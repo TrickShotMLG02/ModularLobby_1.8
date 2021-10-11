@@ -1,0 +1,18 @@
+main: com.TrickShotDev.ModularLobby.Spigot.Lobby
+name: ModularLobby
+version: 1.0.2
+author: TrickShotDev
+description: Lobby Plugin
+commands:
+  lobbyreload:
+  setspawn:
+  spawn:
+  edit:
+    aliases: [build]
+  fly:
+  toggledamage:
+  togglehunger:
+  toggleexplosions:
+  editnavigator:
+  navigator:
+  

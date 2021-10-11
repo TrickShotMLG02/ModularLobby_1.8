@@ -1,0 +1,28 @@
+FoodLevel: 20
+PlayerHealth: 20.0
+disableHunger: true
+disableDamage: true
+disableExplosions: true
+defaultGamemode: adventure
+Items:
+  Navigator:
+    enabled: true
+    giveItemOnJoin: true
+  ServerSelector:
+    enabled: true
+    giveItemOnJoin: true
+spawnAtSpawn: true
+Spawnposition: {}
+Scoreboard:
+  Show: true
+  Line01: ''
+  Line02: ''
+  Line03: ''
+  Line04: ''
+  Line05: ''
+  Line06: ''
+  Line07: ''
+  Line08: ''
+  Line09: ''
+  Line10: ''
+  Line11: ''
